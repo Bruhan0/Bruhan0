@@ -1,4 +1,4 @@
-# Hey, I'm Bruhan 👋
+# Hey, I'm Bruhan
 
 B.Tech CSE (AI) student.
 
